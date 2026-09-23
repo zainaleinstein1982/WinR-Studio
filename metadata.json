@@ -1,0 +1,6 @@
+{
+  "name": "WinR Studio",
+  "description": "WinR Studio - Open Source AI Voice Studio with fully-local voice cloning, design, and real-time collaboration suite for the Ignyte x ElevenLabs Challenge.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
